@@ -1,4 +1,4 @@
-# Plugging-into-the-Future-An-Exploration-of-Electricity-Consumption-Patterns
+<img width="997" height="861" alt="image" src="https://github.com/user-attachments/assets/75e007c1-6df4-4d12-9ca0-fc4f5617f07e" /><img width="1142" height="1083" alt="Story 1" src="https://github.com/user-attachments/assets/ab593e38-e151-4344-941c-6f4daa57bae6" /># Plugging-into-the-Future-An-Exploration-of-Electricity-Consumption-Patterns
 
 ## Project Title
 **Plugging into the Future: An Exploration of Electricity Consumption Patterns**
@@ -44,6 +44,11 @@ This project analyzes electricity consumption patterns using Tableau to identify
 
 ## Tableau Public Link
 https://public.tableau.com/app/profile/mohan.byri/viz/maindashboard4_17841325024000/Story1?publish=yes
+
+📸 **Dashboard Preview**
+<img width="1142" height="1083" alt="Story 1" src="https://github.com/user-attachments/assets/0ac36dde-bc7b-4314-9f1c-0d81053e39f8" />
+
+
 
 ## GitHub Repository
 Add your GitHub repository link here after publishing.

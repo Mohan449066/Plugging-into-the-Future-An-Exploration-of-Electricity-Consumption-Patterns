@@ -48,8 +48,32 @@ https://public.tableau.com/app/profile/mohan.byri/viz/maindashboard4_17841325024
 
 
 
-## GitHub Repository
-Add your GitHub repository link here after publishing.
+📁 **Repository Structure**
+Electricity-Consumption-Patterns/
+│
+├── ElectricityConsumption (1).twbx
+├── Electricity Consumption Patterns cleaned dataset.xlsx
+├── Dashboard.png
+├── README.md
 
-## Conclusion
-This project provides valuable insights into electricity consumption patterns through interactive dashboards and Tableau Stories. The visualizations help identify consumption trends, regional differences, and usage patterns over time, enabling users to better understand electricity demand and support data-driven decision-making.
+**🚀 How to Use**
+1. Clone or download this repository.
+2. Open `ElectricityConsumption (1).twbx` using Tableau Desktop.
+3. Explore the interactive Electricity Consumption Analysis Dashboard.
+4. Analyze electricity consumption patterns by state, year, and region.
+5. Review the visualizations and key insights.
+## 📌 Key Insights
+
+- ****Electricity consumption varies significantly across different states and regions.**
+- **Northern and Southern regions contribute substantially to the overall electricity consumption in India.**
+- **Electricity usage patterns differ between 2019 and 2020, highlighting changes in consumption over time.**
+- **State-wise and region-wise analysis reveals distinct patterns and variations in electricity demand.**
+- **Understanding these consumption trends can help support better energy planning, resource management, and sustainable electricity usage.**
+
+👨‍💻 Author
+BYRI MOHAN KUMAR
+
+📄 License
+This project was created for academic and educational purposes.
+
+⭐ If you found this project helpful, feel free to star the repository.

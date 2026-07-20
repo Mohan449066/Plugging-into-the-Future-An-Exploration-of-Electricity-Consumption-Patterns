@@ -70,10 +70,12 @@ Electricity-Consumption-Patterns/
 - **State-wise and region-wise analysis reveals distinct patterns and variations in electricity demand.**
 - **Understanding these consumption trends can help support better energy planning, resource management, and sustainable electricity usage.**
 
-**👨‍💻 Author** 
-BYRI MOHAN KUMAR
+## 👨‍💻 Author
 
-**📄 License**
+**BYRI MOHAN KUMAR**
+
+## 📄 License
+
 This project was created for academic and educational purposes.
 
 ⭐ If you found this project helpful, feel free to star the repository.
